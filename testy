@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Page</title>
+    <style>
+        body {
+            background-color: #f0f8ff; /* Light blue background */
+            color: #333; /* Dark text color */
+            font-family: Arial, sans-serif; /* Font style */
+            text-align: center; /* Centered text */
+            padding: 50px; /* Padding around the content */
+        }
+        h1 {
+            color: #007acc; /* Header color */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My GitHub Page!</h1>
+    <p>This is a simple HTML file hosted on GitHub Pages.</p>
+    <p>Feel free to customize this page as you like!</p>
+</body>
+</html>
